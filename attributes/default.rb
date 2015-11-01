@@ -1,0 +1,5 @@
+default['feeder']['application_name']           = 'feeder'
+default['feeder']['mgmt_port']                  = '80'
+default['feeder']['home'] = '/srv/www/feeder/current'
+default['feeder']['route'] = 'feeder'
+default['feeder']['nodejs']['node_env'] = 'dev'

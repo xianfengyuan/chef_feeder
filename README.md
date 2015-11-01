@@ -1,1 +1,2 @@
-use dev or prod branch
+## Cookbook to deploy feeder app
+
